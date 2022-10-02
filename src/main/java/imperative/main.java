@@ -2,7 +2,7 @@ package imperative;
 
 import java.util.List;
 import java.util.ArrayList;
-import java.util.function.Predicate;
+
 import static imperative.main.Gender.*;
 import java.util.stream.Collectors;
 
